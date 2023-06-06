@@ -6,6 +6,7 @@ Creditos a los respectivos creadores de las haarcascade y las MobileNetSSD
 
 PINTO, Shinya dueños de las caffe model:
 https://raw.githubusercontent.com/PINTO0309/MobileNet-SSD-RealSense/master/caffemodel/MobileNetSSD/MobileNetSSD_deploy.caffemodel
+
 No se conoce al autor original, el archivo fue sacado de la siguiente pagina, creditos a su respectivo autor.
 
 ip-cameras-for-vlc se encuentra en:
